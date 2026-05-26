@@ -170,7 +170,7 @@ FinTracker/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/FinTracker.git
+git clone https://github.com/dilipgowdaan/FinTracker.git
 ```
 
 ---
@@ -244,20 +244,18 @@ Add your Firebase configuration inside the project.
 ## Dilip Gowda A N
 Electronics and Communication Engineering Student
 
-### Areas of Interest
-- Mobile App Development
-- IoT Systems
-- Embedded Systems
-- AI Integration
-- Full Stack Development
-- Smart Automation Systems
-
----
-
-# 📧 Contact
+## 📧 Contact
 
 - Email: dilipgowda7259@gmail.com
 - Phone: +91 7259447817
+
+## Arya B V
+Electronics and Communication Engineering Student
+
+## 📧 Contact
+
+- Email: aryabvarya18@gmail.com
+- Phone: +91 8050141198
 
 ---
 
@@ -265,6 +263,4 @@ Electronics and Communication Engineering Student
 
 Developed and maintained by the FinTracker Team.
 
-This project is intended for academic and educational purposes only.
-
-All rights reserved.
+This project is intended for academic and educational purposes only. All rights reserved.
