@@ -244,7 +244,7 @@ Add your Firebase configuration inside the project.
 ## Dilip Gowda A N
 Electronics and Communication Engineering Student
 
-## 📧 Contact
+### 📧 Contact
 
 - Email: dilipgowda7259@gmail.com
 - Phone: +91 7259447817
@@ -252,7 +252,7 @@ Electronics and Communication Engineering Student
 ## Arya B V
 Electronics and Communication Engineering Student
 
-## 📧 Contact
+### 📧 Contact
 
 - Email: aryabvarya18@gmail.com
 - Phone: +91 8050141198
