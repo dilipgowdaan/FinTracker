@@ -261,6 +261,6 @@ Electronics and Communication Engineering Student
 
 # 📄 License
 
-Developed and maintained by the FinTracker Team.
+Developed and maintained by the FinTracker Team as hobby project for personal daily usage .
 
 This project is intended for academic and educational purposes only. All rights reserved.
