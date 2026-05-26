@@ -20,7 +20,7 @@ import { getFirestore, collection, doc, setDoc, deleteDoc, onSnapshot } from 'fi
 // 1. FIREBASE INITIALIZATION
 // ==========================================
 const firebaseConfig = {
-  apiKey: "AIzaSyBij-aeQYZ_wj8_QDWj3WT-ZbYKAqSbXf0",
+  apiKey: "API_KEY",
   authDomain: "fintracker-2292c.firebaseapp.com",
   projectId: "fintracker-2292c",
   storageBucket: "fintracker-2292c.firebasestorage.app",
